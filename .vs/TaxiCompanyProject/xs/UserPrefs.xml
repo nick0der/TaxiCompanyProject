@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{56CBACA5-29A5-47E6-94B1-19B61E65D741}|Default">
+  <MonoDevelop.Ide.ItemProperties.TaxiCompanyProject PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaxiCompanyProject/Startup.cs">
+    <Files>
+      <File FileName="TaxiCompanyProject/Repositories/DriverRepository.cs" Line="10" Column="34" />
+      <File FileName="TaxiCompanyProject/GenericAsyncRepository/EfRepository.cs" />
+      <File FileName="TaxiCompanyProject/GenericAsyncRepository/IAsyncRepository.cs" />
+      <File FileName="TaxiCompanyProject/Controllers/ChiefController.cs" />
+      <File FileName="TaxiCompanyProject/Data/ApplicationDbContext.cs" />
+      <File FileName="TaxiCompanyProject/DTO/ChiefDTO.cs" />
+      <File FileName="TaxiCompanyProject/Migrations/20210623100927_initialCreate.cs" />
+      <File FileName="TaxiCompanyProject/Migrations/ApplicationDbContextModelSnapshot.cs" />
+      <File FileName="TaxiCompanyProject/Models/Chief.cs" />
+      <File FileName="TaxiCompanyProject/Startup.cs" Line="58" Column="34" />
+      <File FileName="TaxiCompanyProject/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaxiCompanyProject" expanded="True">
+            <Node name="TaxiCompanyProject" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="DTO" expanded="True" />
+              <Node name="GenericAsyncRepository" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nickpopyk/Projects/TaxiCompanyProject/TaxiCompanyProject/Controllers/DriverController.cs" relfile="TaxiCompanyProject/Controllers/DriverController.cs" line="71" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
